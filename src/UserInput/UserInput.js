@@ -1,5 +1,5 @@
 import React from "react";
 const userInput = () => {
-  return <input type="text welcoeskdjdfsgfgfg"></input>;
+  return <input type="text welcome"></input>;
 };
 export default userInput;
